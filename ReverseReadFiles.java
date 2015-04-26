@@ -1,4 +1,4 @@
-package reverseReadFiles;
+package codingInterview;
 
 
 import java.io.BufferedReader;
